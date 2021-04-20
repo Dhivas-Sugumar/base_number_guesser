@@ -15,5 +15,5 @@ Playing the game
 Open the project folder that you previously downloaded onto your computer on visual studio code. 
 Make sure to have the Java interpreter for Visual Studio Code installed. 
 Open the main.java file on Visual Studio code 
-Run the code and enjoy the game on your terminal!
+Run the code and enjoy the game on your terminal
 
