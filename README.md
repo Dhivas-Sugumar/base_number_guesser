@@ -5,6 +5,7 @@ Technologies used 🛠
 Java 
 
 👷‍♂️ Installation
+
 In order to clone this project via HTTPS, run this command in your command prompt 
 
 git clone https://github.com/Dhivas-Sugumar/base_number_guesser.git
