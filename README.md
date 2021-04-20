@@ -8,7 +8,7 @@ Java
 
 In order to clone this project via HTTPS, run this command in your command prompt 
 
-git clone https://github.com/r3nanp/podcastr.git
+git clone https://github.com/Dhivas-Sugumar/base_number_guesser.git
 
 This should have copied the entire git repository onto the location indicated on your command prompt
 
