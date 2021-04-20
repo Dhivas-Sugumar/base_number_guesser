@@ -22,3 +22,6 @@ Open the main.java file on Visual Studio code
 
 Run the code and enjoy the game on your terminal
 
+Creators 
+Dhivas Sugumar & Sam Block 
+
